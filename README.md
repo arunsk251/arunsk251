@@ -1,4 +1,4 @@
-# Hi there, I'm !Arun Sunil Kumar 👋
+# Hi there, I'm Arun Sunil Kumar 👋
 
 ### 🎓 Software Engineering Student
 
